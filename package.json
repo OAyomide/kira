@@ -1,0 +1,13 @@
+{
+  "name": "kira",
+  "version": "1.0.0",
+  "description": "simple lightweight logger",
+  "main": "index.js",
+  "author": "Ayomide Onigbinde",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "moment": "^2.22.2"
+  }
+}
